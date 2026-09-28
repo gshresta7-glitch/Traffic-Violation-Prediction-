@@ -42,9 +42,9 @@ Dataset is taken from the Kaggle website which contains 12,92,399 records. A sam
 **PROJECT RESULTS**
 
 The different models were compared based on their classification report. The complete implementation, model comparison, visualizations and evaluation are available in the Notebook included in this repository.The Stacking Classifier achieved the strongest overall performance among the evaluated models, with:
-* **Accuracy:** 57%
-* **Macro F1-score:** 0.44
-* **ROC-AUC:** 0.674
+* **Accuracy:** 77.51%
+* **Macro F1-score:** 0.84
+* **ROC-AUC:** 0.93
 
 Macro F1-score and ROC-AUC were given particular attention because the target classes were imbalanced.
 
